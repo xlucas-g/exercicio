@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+}
+header{
+    height: 100px;
+    background-color: dodgerblue;
+}
+
+h1{
+    text-align: center;
+}
+
+p {
+    width: 500px;
+    text-align: justify;
+    margin: auto;
+}
+
+img {
+    width: 200px;
+    display: block;
+    margin: auto;
+}
+
+.linguagens {
+    width: 100px;
+    height: 100px;
+
+}
+
+.professor {
+    width: 600px
+}
+figcaption {
+    text-align: center;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: dodgerblue;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+}
